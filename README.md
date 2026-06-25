@@ -1,4 +1,4 @@
-# flask_RAG_chatbot
+# Flask RAG Chatbot
 
 A lightweight RAG (Retrieval-Augmented Generation) powered chatbot built with Flask and LangChain, using a local Qwen model via HuggingFace Transformers for context-aware question answering.
 
@@ -9,14 +9,6 @@ A lightweight RAG (Retrieval-Augmented Generation) powered chatbot built with Fl
 - Flask REST API with /RAG endpoint
 - Context-aware answers from your own documents
 - CORS enabled for cross-origin requests
-
-## Project Structure
-
-flask_RAG_chatbot/
-├── RAG_Chatbot.ipynb       # Main notebook with all the code
-├── langchain_intro.txt     # Knowledge base / source document
-├── requirements.txt        # Python dependencies
-└── README.md               # Project documentation
 
 ## Requirements
 
